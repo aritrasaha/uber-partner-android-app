@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Uber Partner</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="server_scheme">https</string>
+    <string name="server_login_url">login.uber.com</string>
+    <string name="server_home_url">partners.uber.com</string>
+</resources>
